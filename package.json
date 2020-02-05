@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-docker-heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wahengchang/nodejs-docker-heroku.git",
+  "author": "wahengchang <wahengchang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
